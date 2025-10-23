@@ -19,4 +19,4 @@ It presents an engaging learning experience through clean design, animations, an
 ## 📦 Setup Instructions
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/smart-study.git
+   git clone https://github.com/sumitdahake23/SmartStudyInstitute.git
