@@ -1,0 +1,32 @@
+/******* Customized Bootstrap ********/
+
+$primary: #00BFFF; // Bright, vibrant Sky Blue for main actions and highlights
+$secondary: #4682B4; // Steel Blue for secondary actions and complementary elements
+$light: #E0FFFF;   // Light Cyan/Azure for backgrounds and subtle accents
+$dark: #0047AB;    // Cobalt Blue/Dark Blue for text and deep contrast
+
+$font-family-base: 'Montserrat', sans-serif;
+
+$headings-font-family: 'Fredoka', sans-serif;
+
+$body-color: #70747F;
+
+$headings-color: $dark;
+
+$headings-font-weight: 600;
+
+$display-font-weight: 700;
+
+$enable-responsive-font-sizes: true;
+
+$border-radius: 10px;
+
+$border-radius-sm: $border-radius;
+
+$border-radius-lg: $border-radius;
+
+$link-decoration: none;
+
+$enable-negative-margins: true;
+
+@import "bootstrap/scss/bootstrap";
